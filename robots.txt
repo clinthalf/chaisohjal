@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eepoopihi.embedded.lt/sitemap.xml
